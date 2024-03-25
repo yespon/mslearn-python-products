@@ -1,2 +1,7 @@
 # Flask Framework
 Flask==2.3.3
+langchin
+langchin-community
+langchin-groq
+langchian-openai
+langsmith
